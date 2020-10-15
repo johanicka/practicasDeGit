@@ -1,3 +1,5 @@
 esta es la historia
 
-de como se empieza a aprender git, esto es muy bueno .
+de como se empieza a aprender git, esto es muy bueno.
+
+Este tipo es marico el que es el ceo de platzi.
