@@ -1,4 +1,4 @@
-esta es la historia
+sesta es la historia
 
 de como se empieza a aprender git, esto es muy bueno.
 
